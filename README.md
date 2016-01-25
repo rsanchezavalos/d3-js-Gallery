@@ -7,3 +7,5 @@ https://treemap-itam.herokuapp.com
 map:
 https://map-itam.herokuapp.com/
 
+other projects:
+http://www.observatoriodevivienda.org/projects/
